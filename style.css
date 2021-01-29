@@ -1,0 +1,13 @@
+body {
+    height: 2000px;
+    background-color: #cccccc;
+    background-image: linear-gradient(white,black,white);
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-top: 20px;
+  }
+  h1{
+      margin-top: 10px;
+      font-weight: 500;
+      color: purple;
+  }
